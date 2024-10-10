@@ -1,0 +1,11 @@
+inteiro x, y, h=5 \ 4;
+real z;
+
+se (x < 10) {
+    mostrar x;
+} senao {
+    mostrar y;
+    
+}
+ler x;
+
